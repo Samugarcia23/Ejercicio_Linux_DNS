@@ -31,7 +31,7 @@ Los Servidores web ftp serán RAID 5.
 
 Para Entregar:
 ~~~
-											named.conf.local
+				 							named.conf.local
 
 zone "sitioa.com" {
         type master;
