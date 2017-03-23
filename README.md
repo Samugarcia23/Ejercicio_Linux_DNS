@@ -154,4 +154,4 @@ Raid0:
 
 Raid5:
 
-![Raid5](Ubuntu 64-bit Server2-2017-03-10-21-16-01.png)
+![Raid5](Ubuntu 64-bit Server2-2017-03-10-21-16-01.png) 
