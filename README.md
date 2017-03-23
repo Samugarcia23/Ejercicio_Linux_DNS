@@ -145,3 +145,9 @@ editamos el archivo /etc/rc.local y le añadimos lo siguiente delante de Exit 0:
 ~~~   
 sh /home/usuario/router.sh  
 ~~~
+RAID:
+
+Raid0: 
+![Raid0](Ubuntu 64-bit raid0-2017-03-10-21-25-14.png)
+Raid5:
+![Raid5](Ubuntu 64-bit Server2-2017-03-10-21-16-01.png)
