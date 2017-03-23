@@ -12,7 +12,7 @@ Crear un servidor DNS con las siguientes zonas:
 	- www web con información de C#  
   
 	- ftp servidor ftp.
-- sitioc.net
+	- sitioc.net
     
 	- www web con información de Oracle.  
     
