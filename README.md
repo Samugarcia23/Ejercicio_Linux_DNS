@@ -150,8 +150,8 @@ RAID:
 
 Raid0: 
 
-![Raid0](Ubuntu64-bitraid0-2017-03-10-21-25-14.png)
+![Raid0](raid0.png)
 
 Raid5:
 
-![Raid5](Ubuntu64-bitServer2-2017-03-10-21-16-01.png) 
+![Raid5](raid5.png) 
